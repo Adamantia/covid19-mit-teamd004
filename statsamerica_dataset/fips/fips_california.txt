@@ -1,0 +1,58 @@
+106001	Alameda	CA
+106003	Alpine	CA
+106005	Amador	CA
+106007	Butte	CA
+106009	Calaveras	CA
+106011	Colusa	CA
+106013	Contra Costa	CA
+106015	Del Norte	CA
+106017	El Dorado	CA
+106019	Fresno	CA
+106021	Glenn	CA
+106023	Humboldt	CA
+106025	Imperial	CA
+106027	Inyo	CA
+106029	Kern	CA
+106031	Kings	CA
+106033	Lake	CA
+106035	Lassen	CA
+106037	Los Angeles	CA
+106039	Madera	CA
+106041	Marin	CA
+106043	Mariposa	CA
+106045	Mendocino	CA
+106047	Merced	CA
+106049	Modoc	CA
+106051	Mono	CA
+106053	Monterey	CA
+106055	Napa	CA
+106057	Nevada	CA
+106059	Orange	CA
+106061	Placer	CA
+106063	Plumas	CA
+106065	Riverside	CA
+106067	Sacramento	CA
+106069	San Benito	CA
+106071	San Bernardino	CA
+106073	San Diego	CA
+106075	San Francisco	CA
+106077	San Joaquin	CA
+106079	San Luis Obispo	CA
+106081	San Mateo	CA
+106083	Santa Barbara	CA
+106085	Santa Clara	CA
+106087	Santa Cruz	CA
+106089	Shasta	CA
+106091	Sierra	CA
+106093	Siskiyou	CA
+106095	Solano	CA
+106097	Sonoma	CA
+106099	Stanislaus	CA
+106101	Sutter	CA
+106103	Tehama	CA
+106105	Trinity	CA
+106107	Tulare	CA
+106109	Tuolumne	CA
+106111	Ventura	CA
+106113	Yolo	CA
+106115	Yuba	CA

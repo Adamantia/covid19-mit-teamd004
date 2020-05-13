@@ -1,0 +1,14 @@
+25001	Barnstable	MA
+25003	Berkshire	MA
+25005	Bristol	MA
+25007	Dukes	MA
+25009	Essex	MA
+25011	Franklin	MA
+25013	Hampden	MA
+25015	Hampshire	MA
+25017	Middlesex	MA
+25019	Nantucket	MA
+25021	Norfolk	MA
+25023	Plymouth	MA
+25025	Suffolk	MA
+25027	Worcester	MA

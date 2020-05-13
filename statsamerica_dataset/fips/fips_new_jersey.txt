@@ -1,0 +1,21 @@
+34001	Atlantic	NJ
+34003	Bergen	NJ
+34005	Burlington	NJ
+34007	Camden	NJ
+34009	Cape May	NJ
+34011	Cumberland	NJ
+34013	Essex	NJ
+34015	Gloucester	NJ
+34017	Hudson	NJ
+34019	Hunterdon	NJ
+34021	Mercer	NJ
+34023	Middlesex	NJ
+34025	Monmouth	NJ
+34027	Morris	NJ
+34029	Ocean	NJ
+34031	Passaic	NJ
+34033	Salem	NJ
+34035	Somerset	NJ
+34037	Sussex	NJ
+34039	Union	NJ
+34041	Warren	NJ
