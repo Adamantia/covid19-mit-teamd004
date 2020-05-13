@@ -4,7 +4,7 @@ from census import Census
 from us import states
 
 ## Paste your api key in the line bellow
-api_key = "PASTE YOUR API KEY HERE"
+api_key = "PASTE_YOUR_API_KEY_HERE"
  
 c = Census(api_key)
 c.acs5.get(('NAME', 'B25034_010E'),
