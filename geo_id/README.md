@@ -1,3 +1,4 @@
+
 ## Download Datasets in County Level
 
 Probably we need to map it with the US FIPS ID, for example New York is equal to 36:
@@ -43,3 +44,13 @@ The id '36001' is a reference for (36 = New York FIPS code, and is 001 = Albany 
 'pt1' = The type of table that I am requesting (for example the demography one is pt2).
 
 'excel' file format.
+
+## List of all FIPS Codes in US
+
+
+
+## References
+
+[US - County FIPS Codes](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697)
+
+[Dataset - USA Counties in Profile](http://www.statsamerica.org/uscp/)
