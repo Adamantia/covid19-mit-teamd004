@@ -7,7 +7,7 @@ First, need to map the name of the state with its US FIPS ID; for example, New Y
 
 *The FIPS of some states like California need to include number one at the beginning of the request.
 
-##  We choose the states among the top five biggest COVID-19 occurrences
+##  The top five biggest COVID-19 occurrences
 
 ### California 
 
