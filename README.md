@@ -4,11 +4,13 @@
 ##Epidemiology track
 ##Research topic: Human Mobility AND COVID-19
 
-**How does ‘human mobility’ in public places such as grocery stores, pharmacies, parks and transit stations relate to COVID-19 related hospitalizations across the 14 counties in Massachusetts?**
+![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/research_question.JPG "Research Question")
 
 Definitions: Human MobilityPercent change from the ‘baseline’ trends from previous months, as per Google, the data source 
-
+![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/methodology.JPG "Methodology")
 Approach: Exploratory visual analysis for trends and patterns of both exposure and COVID-19 related hospitalizations using multiple data sources. And a Pilot study to focus on counties in MA for variations in hospitalizations and mobility and lag time to hospitalizations
+
+![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/sources.JPG "Sources")
 
 Analysis includes:
 
@@ -17,6 +19,11 @@ Analysis includes:
 (b) Pearson correlation of 0.58 (p<0.001) between 7-Day Lag in Change in Park Visits and Hospital Admissions
 
 (c) Pearson correlation of 0.52 (p<0.0001) between 17-Day Lag in Change in Park Visits and Hospital Admissions
+
+![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/gr_ph_county.JPG "County level")
+
+
+![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/park_county.JPG "")
 
 
 
