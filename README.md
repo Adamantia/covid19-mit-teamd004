@@ -1,14 +1,14 @@
 # covid19-mit-teamd004
 
-##MITCOVID19 Datathon
-##Epidemiology track
-##Research topic: Human Mobility AND COVID-19
+## MITCOVID19 Datathon
+## Epidemiology track
+## Research topic: Human Mobility AND COVID-19
 
 ![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/research_question.JPG "Research Question")
 
-Definitions: Human MobilityPercent change from the ‘baseline’ trends from previous months, as per Google, the data source 
 ![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/methodology.JPG "Methodology")
-Approach: Exploratory visual analysis for trends and patterns of both exposure and COVID-19 related hospitalizations using multiple data sources. And a Pilot study to focus on counties in MA for variations in hospitalizations and mobility and lag time to hospitalizations
+
+### Approach: Exploratory visual analysis for trends and patterns of both exposure and COVID-19 related hospitalizations using multiple data sources. And a Pilot study to focus on counties in MA for variations in hospitalizations and mobility and lag time to hospitalizations
 
 ![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/sources.JPG "Sources")
 
@@ -24,8 +24,6 @@ Analysis includes:
 
 
 ![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/park_county.JPG "")
-
-
 
 
 **Innovation & Impact**
