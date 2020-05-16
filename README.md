@@ -1,8 +1,6 @@
-# covid19-mit-teamd004
-
-## MITCOVID19 Datathon
-## Epidemiology track
-## Research topic: Human Mobility AND COVID-19
+# MIT-COVID19 Datathon
+# Epidemiology track
+# Human Mobility AND COVID-19
 
 ![alt text](https://github.com/Adamantia/covid19-mit-teamd004/blob/master/images/research_question.JPG "Research Question")
 
