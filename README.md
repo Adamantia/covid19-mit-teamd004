@@ -1,1 +1,36 @@
 # covid19-mit-teamd004
+
+##MITCOVID19 Datathon
+##Epidemiology track
+##Research topic: Human Mobility AND COVID-19
+
+**How does ‘human mobility’ in public places such as grocery stores, pharmacies, parks and transit stations relate to COVID-19 related hospitalizations across the 14 counties in Massachusetts?**
+
+Definitions: Human MobilityPercent change from the ‘baseline’ trends from previous months, as per Google, the data source 
+
+Approach: Exploratory visual analysis for trends and patterns of both exposure and COVID-19 related hospitalizations using multiple data sources. And a Pilot study to focus on counties in MA for variations in hospitalizations and mobility and lag time to hospitalizations
+
+Analysis includes:
+
+(a) Pearson correlation of 0.62 (p<0.001) between 5-Day Lag in Change in Park Visits and Hospital Admissions
+
+(b) Pearson correlation of 0.58 (p<0.001) between 7-Day Lag in Change in Park Visits and Hospital Admissions
+
+(c) Pearson correlation of 0.52 (p<0.0001) between 17-Day Lag in Change in Park Visits and Hospital Admissions
+
+
+
+
+**Innovation & Impact**
+
+Innovative study exploring relationships between human mobility as measured by % change in visits to pharmacies, grocery and retail stores, and Covid-19 hospitalizations
+
+Helps understand how mobility can affect the load on the health system 
+
+Helps answer the wider question of whether Covid measures should entail mandatory ‘physical’ distancing measures
+
+More importantly, our model can help inform how phased opening of different sites can effect Covid-19 hospitalizations
+
+
+#For parts of our analysis we used Google Colab notebook but also software as Tableau and statistical tools as SAS. 
+If you want to view the notebook in your browser follow this link: https://nbviewer.jupyter.org/github/Adamantia/covid19-mit-teamd004/blob/master/Covid19_Datathon_Team_d004.ipynb
